@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57811837053",
+    "project_id": "soulee-dummy",
+    "storage_bucket": "soulee-dummy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57811837053:android:9f416407b08a4434cfd114",
+        "android_client_info": {
+          "package_name": "com.example.soulee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmxA0495O4I0pP_aTEYvO_bZcYdMnihWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
