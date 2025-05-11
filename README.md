@@ -1,5 +1,9 @@
 # soulee
 Task From Soulee
+## Application Screenshot
+
+![Alt text](https://drive.google.com/file/d/1utyPPdjwo9TC3MnP3FugkJd-gXGNsuTu/view?usp=sharing)
+
 ## Features
 
 - ✅ **User Feed Display**: Posts are fetched from Firebase Firestore in real-time.
@@ -24,7 +28,7 @@ Follow the steps below to run this Flutter project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SaifIvnaAlam/soulee.git
 cd your-repo-name
 ```
 ### 2. Install dependencies
