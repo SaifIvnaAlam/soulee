@@ -28,5 +28,21 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 ### 2. Install dependencies
-```flutter pub get
+```bash 
+flutter pub get
 ```
+### 3. Run the app
+
+``` bash 
+flutter run
+
+```
+## Install Apk 
+[Download](https://drive.google.com/file/d/1B8_248MIK1cAwtyyLmBZLVN5B6srIZP7/view?usp=sharing)
+
+
+# Discussion 
+There are few small adjustment needed to be complete this. Due to shortage of time i am over looking those. but in a more production based application these are important. The focus of to build a good base of the project so that i can be build upon later in a more production level environment
+
+Make with <3 by Saif
+ 
